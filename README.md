@@ -1,16 +1,18 @@
-### Hi there 👋
+## Tuna, the boring fish 🐟
 
-<!--
-**tuanchauict/tuanchauict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!👋 I am Tuan Chau (aka. Tuna), an Android developer at LINE, who mostly reading code and design docs.
+When I get bored, I build things like scripts for automating my work or commit to MonoSketch, a tool I built to satisfy my needs in ASCII chart drawing.
 
-Here are some ideas to get you started:
+ 
+- **Email** : <tuan@iamtuna.org>
+- **GitHub** : <https://github.com/tuanchauict>
+- **Instagram** : [@i__am__tuna](https://www.instagram.com/i__am__tuna/)
+- **Twitter** : [@i__am__tuna](https://twitter.com/i__am__tuna)
+- **My notes** : [iamtuna.org](https://iamtuna.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=tuanchauict&title_color=0067a3)](https://github.com/tuanchauict)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanchauict&title_color=0067a3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftuanchauict)](https://github.com/tuanchauict)
