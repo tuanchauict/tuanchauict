@@ -1,6 +1,6 @@
 ## Tuna, the boring fish 🐟
 
-Hello!👋 I am Tuan Chau (aka. Tuna), an Android developer at LINE, who mostly reading code and design docs.
+Hello!👋 I am Tuan Chau (aka. Tuna), an Android developer at LINE, who mostly reads code and design docs.
 
 When I get bored, I build things like scripts for automating my work or commit to MonoSketch, a tool I built to satisfy my needs in ASCII chart drawing.
 
