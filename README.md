@@ -12,8 +12,8 @@ When I get bored, I build things like scripts for automating my work or commit t
 - **My notes** : [iamtuna.org](https://iamtuna.org/)
 
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=tuanchauict&title_color=0067a3)](https://github.com/tuanchauict)
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=tuanchauict&title_color=E9B384)](https://github.com/tuanchauict)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanchauict&title_color=0067a3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanchauict&title_color=E9B384&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftuanchauict)](https://github.com/tuanchauict)
